@@ -10,15 +10,7 @@ Group 14
 
 ## Overview
 ### Description
-An iOS application for finding study partners.
-
-### App Evaluation
-- **Category:**
-- **Mobile:** 
-- **Story:** 
-- **Market:** 
-- **Habit:** 
-- **Scope:** 
+An iOS application for college students to find study partner.
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
